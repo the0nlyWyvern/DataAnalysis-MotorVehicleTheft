@@ -1,4 +1,4 @@
-# <img src="./screenshots/icon.png" alt="bike" width="25px"> - Motor vehicle thief Analysis - Introduction to Pandas
+# <img src="./screenshots/icon.png" alt="bike" width="25px"> Motor vehicle thief Analysis - Introduction to Pandas
 
 # Description
 
@@ -35,12 +35,18 @@ Local:
 
 ## Q. How does the number of crimes change from year to year?
 
-<img src="./screenshots/question3.2.png" alt="question 3.2" width="75%">
+<div style="background-color:pink;">
+<img src="./screenshots/question3.2.png" alt="question 3.2" width="75%" style="display:block;margin:auto">
+</div>
 
 ## Q. Given the cases that happen each year, what is the percentage of the perpetrators caught by the time the data is collected?
 
-<img src="./screenshots/question3.3.png" alt="question 3.3" width="75%">
+<div style="background-color:pink;">
+<img src="./screenshots/question3.3.png" alt="question 3.3" width="75%" style="display:block;margin:auto">
+</div>
 
 ## Q. In each of the last 3 years, how did the number of crimes change month-on-month?
 
-<img src="./screenshots/question3.6.png" alt="question 3.6" width="75%">
+<div style="background-color:pink;">
+<img src="./screenshots/question3.6.png" alt="question 3.6" width="75%" style="display:block;margin:auto">
+</div>
